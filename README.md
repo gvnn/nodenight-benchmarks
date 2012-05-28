@@ -1,4 +1,4 @@
 nodenight-benchmarks
 ====================
 
-Melbourne Node Night Benchamarks
+Melbourne Node Night Benchmarks
