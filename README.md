@@ -27,4 +27,4 @@ output
 these files are processed by ``gnuplot`` and the output is ``.png`` file that looks
 like the one below
 
-![sample-output](http://github.com/gvnn/nodenight-benchmarks/sample-output.png)
+![sample-output](http://github.com/gvnn/nodenight-benchmarks/raw/master/sample-output.png)
