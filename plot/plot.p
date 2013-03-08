@@ -24,4 +24,5 @@ plot  "plot/rails.dat" using 9 smooth sbezier with lines title "rails", \
       "plot/python.dat" using 9 smooth sbezier with lines title "python", \
       "plot/ruby.dat" using 9 smooth sbezier with lines title "ruby", \
       "plot/express.dat" using 9 smooth sbezier with lines title "express", \
-      "plot/clustered-node.dat" using 9 smooth sbezier with lines title "clustered-node"
+      "plot/clustered-node.dat" using 9 smooth sbezier with lines title "clustered-node",\
+      "plot/haskell-wai.dat" using 9 smooth sbezier with lines title "haskell-wai"

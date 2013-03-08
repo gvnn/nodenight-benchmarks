@@ -15,3 +15,7 @@ nohup python python/app.py >> /dev/null &
 # rails
 nohup railstest/script/rails server --port 4567 >> /dev/null & echo "all started"
 # php runs on apache
+
+# build haskell app first
+cabal install haskell-wai/app.cabal
+nohup app
